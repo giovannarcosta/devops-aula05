@@ -1,3 +1,3 @@
-# devops-aula05 - AC2 18/09/2020
+# devops-aula05 - AC2 
 Giovanna Rocha Rodrigues Costa
 RA: 1902577
